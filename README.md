@@ -1,6 +1,10 @@
-# Hi, I'm Ayaz 👋
+<h1>Ayaz Nasyrov</h1>
 
 **Founder building AI for schools** · Dubai → London (UCL, 2026–27)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=FCC801)](https://www.linkedin.com/in/ayaz-nasyrov-0b8018383/)
+[![BC One](https://img.shields.io/badge/BC_One-apps.bcacad.org-000000?style=flat-square&labelColor=FCC801)](https://apps.bcacad.org)
+[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=maildotru&logoColor=FCC801)](mailto:ayaz.n@becleveredu.com)
 
 I build software that people in real schools use every day. My main project is
 **[BC One](https://apps.bcacad.org)**, the school management platform running at
@@ -13,7 +17,7 @@ bugs, parents on phones, and children's data that has to be handled properly.
 
 ---
 
-### 🔨 What I've built
+### 01 — Selected work
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -28,16 +32,21 @@ bugs, parents on phones, and children's data that has to be handled properly.
 
 ---
 
-### 📈 In numbers (BC One, since March 2026)
+### 02 — BC One in numbers
 
-- **3,400+ commits**, about 85% of them mine: written and shipped through the Claude coding agents I direct, alongside a small team of developers
-- **~85,000 lines** of backend Python across 130+ modules
-- **~6,500 automated tests** and **165 database migrations**
-- In use by teachers, leadership and office staff at a Nursery–Year 8 school
+<table>
+  <tr>
+    <td align="center"><h3>3,400+</h3>commits since March 2026<br/><sub>~85% mine, via the agents I direct</sub></td>
+    <td align="center"><h3>~85k</h3>lines of backend Python<br/><sub>130+ modules</sub></td>
+    <td align="center"><h3>~6,500</h3>automated tests<br/><sub>165 database migrations</sub></td>
+  </tr>
+</table>
+
+In daily use by teachers, leadership, office staff and parents at a Nursery–Year 8 school.
 
 ---
 
-### 🧠 How I work
+### 03 — How I work
 
 - **AI-agent engineering.** I run several Claude coding agents in parallel, each in
   its own git worktree, behind protected branches, CI and an AI review gate before
@@ -51,17 +60,28 @@ bugs, parents on phones, and children's data that has to be handled properly.
 
 ---
 
-### 🛠 Tools I use
+### 04 — Stack
 
-`Python` `FastAPI` `TypeScript` `PostgreSQL` `Supabase` `Redis` `Cloudflare Workers`
-`Claude API` `MCP` `Google Workspace APIs` `GitHub Actions` `Render` `Capacitor`
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=FCC801)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=FCC801)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=FCC801)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=FCC801)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=FCC801)
+![Redis](https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=FCC801)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-000000?style=flat-square&logo=cloudflareworkers&logoColor=FCC801)
+![Claude](https://img.shields.io/badge/Claude_API-000000?style=flat-square&logo=anthropic&logoColor=FCC801)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=FCC801)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-000000?style=flat-square&logo=google&logoColor=FCC801)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=FCC801)
+![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=FCC801)
+![Capacitor](https://img.shields.io/badge/Capacitor-000000?style=flat-square&logo=capacitor&logoColor=FCC801)
 
 ---
 
-### 🌱 Also
+### 05 — Also
 
-- **Be Clever Games**: founder of an eco-educational board game company selling to schools
+**Be Clever Games** · Founder of an eco-educational board game company selling to schools.
 
 ---
 
-📫 **Contact:** ayaz.n@becleveredu.com · [LinkedIn](https://www.linkedin.com/in/ayaz-nasyrov-0b8018383/) · [apps.bcacad.org](https://apps.bcacad.org)
+<sub>ayaz.n@becleveredu.com · [LinkedIn](https://www.linkedin.com/in/ayaz-nasyrov-0b8018383/) · [apps.bcacad.org](https://apps.bcacad.org)</sub>
