@@ -64,4 +64,4 @@ bugs, parents on phones, and children's data that has to be handled properly.
 
 ---
 
-📫 **Contact:** ayaz.n@becleveredu.com · [LinkedIn](https://linkedin.com/in/REPLACE-ME) · [apps.bcacad.org](https://apps.bcacad.org)
+📫 **Contact:** ayaz.n@becleveredu.com · [LinkedIn](https://www.linkedin.com/in/ayaz-nasyrov-0b8018383/) · [apps.bcacad.org](https://apps.bcacad.org)
