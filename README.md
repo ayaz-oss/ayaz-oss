@@ -2,9 +2,9 @@
 
 **Founder building AI for schools** · Dubai → London (UCL, 2026–27)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=FCC801)](https://www.linkedin.com/in/ayaz-nasyrov-0b8018383/)
-[![BC One](https://img.shields.io/badge/BC_One-apps.bcacad.org-000000?style=flat-square&labelColor=FCC801)](https://apps.bcacad.org)
-[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=maildotru&logoColor=FCC801)](mailto:ayaz.n@becleveredu.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayaz_Nasyrov-0A66C2?style=flat-square)](https://www.linkedin.com/in/ayaz-nasyrov-0b8018383/)
+[![BC One](https://img.shields.io/badge/BC_One-apps.bcacad.org-111111?style=flat-square)](https://apps.bcacad.org)
+[![Email](https://img.shields.io/badge/Email-ayaz.n@becleveredu.com-555555?style=flat-square&logo=minutemailer&logoColor=white)](mailto:ayaz.n@becleveredu.com)
 
 I build software that people in real schools use every day. My main project is
 **[BC One](https://apps.bcacad.org)**, the school management platform running at
@@ -62,19 +62,28 @@ In daily use by teachers, leadership, office staff and parents at a Nursery–Ye
 
 ### 04 — Stack
 
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=FCC801)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=FCC801)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=FCC801)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=FCC801)
-![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=FCC801)
-![Redis](https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=FCC801)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-000000?style=flat-square&logo=cloudflareworkers&logoColor=FCC801)
-![Claude](https://img.shields.io/badge/Claude_API-000000?style=flat-square&logo=anthropic&logoColor=FCC801)
-![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=FCC801)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-000000?style=flat-square&logo=google&logoColor=FCC801)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=FCC801)
-![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=FCC801)
-![Capacitor](https://img.shields.io/badge/Capacitor-000000?style=flat-square&logo=capacitor&logoColor=FCC801)
+<table>
+  <tr>
+    <td><b>AI</b></td>
+    <td><img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude API"/> <img src="https://img.shields.io/badge/MCP-1A1A1A?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP"/> <img src="https://img.shields.io/badge/Anthropic_SDK-191919?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic SDK"/></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun"/></td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Supabase-1C1C1C?style=flat-square&logo=supabase&logoColor=3FCF8E" alt="Supabase"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/></td>
+  </tr>
+  <tr>
+    <td><b>Integrations</b></td>
+    <td><img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Workspace"/> <img src="https://img.shields.io/badge/Google_Classroom-0F9D58?style=flat-square&logo=googleclassroom&logoColor=white" alt="Google Classroom"/></td>
+  </tr>
+  <tr>
+    <td><b>Infra &amp; mobile</b></td>
+    <td><img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white" alt="Cloudflare Workers"/> <img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=46E3B7" alt="Render"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" alt="Capacitor"/></td>
+  </tr>
+</table>
 
 ---
 
